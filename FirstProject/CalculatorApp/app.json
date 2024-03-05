@@ -32,6 +32,12 @@
         "projectId": "eab28a88-6164-498a-a492-fdb9153271f4"
       }
     },
-    "owner": "high_driver"
+    "owner": "high_driver",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/eab28a88-6164-498a-a492-fdb9153271f4"
+    }
   }
 }
